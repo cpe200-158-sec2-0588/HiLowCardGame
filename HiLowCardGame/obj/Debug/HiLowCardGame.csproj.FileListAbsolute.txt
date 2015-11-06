@@ -1,0 +1,6 @@
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.exe.config
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.exe
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\bin\Debug\HiLowCardGame.pdb
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.csprojResolveAssemblyReference.cache
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.exe
+E:\GitHub\CPE200\AssignHiLowCardGameUML\HiLowCardGame\HiLowCardGame\obj\Debug\HiLowCardGame.pdb
